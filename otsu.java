@@ -4,7 +4,7 @@ import java.awt.image.BufferedImage;
 import javax.imageio.ImageIO;
 import java.awt.Color;
 /**
- * Created by asus on 20-Jul-17.
+ * Created by asus/Irma Dibra on 20-Jul-17.
  * Algorithm of  the program
  *
  *separate the pixels into two clusters according to the threshold
